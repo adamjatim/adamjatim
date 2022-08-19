@@ -4,7 +4,7 @@
 
 # HELLO THERE
 <p>    
-    <img src="./img/terminal.svg" alt="Terminal" style="width:40px;">
+    <img src="./img/terminal.svg" alt="Terminal" style="">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" style="width:40px;">
     <img src="" alt="VSCode" style="width=40px">
     <img src="" alt="C++" style="width=40px">
