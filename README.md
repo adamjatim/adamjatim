@@ -4,6 +4,7 @@
 
 # HELLO THERE :wave:
 
+### Tools that I use :
 <p>    
     <img src="./img/terminal.svg" alt="Terminal" style="height:40px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" style="height:40px;">
