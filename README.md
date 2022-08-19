@@ -1,4 +1,3 @@
-@import url (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
 <p align="center">
     <img src="https://c.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif">
 </p>
