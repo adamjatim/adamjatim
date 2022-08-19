@@ -3,6 +3,9 @@
 </p>
 
 # HELLO THERE :wave:
+<p>
+    I'm FullStack Developer from Indonesia.
+</p>
 
 ### Tools that I use :
 <p>    
