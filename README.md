@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/img/68747470733a2f2f632e74656e6f722e636f6d2f7a48693179792d5179545541414141642f616e696d652d747261696e2e676966.gif">
+    <img src="https://nextshark.com/wp-content/uploads/2018/01/005.gif">
 </p>
 
 # HELLO THERE :wave:
