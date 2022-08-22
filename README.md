@@ -7,7 +7,7 @@
     I'm FullStack Developer from Indonesia.
 </p>
 
-### Tools that I use :
+## Tools that I use :
 <p>
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg">
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
@@ -20,7 +20,9 @@
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 </p>
 
-### Still learning :
+<br>
+
+## Still learning :
 <p>
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
     <img height="30px" align="left" src="https://commons.wikimedia.org/wiki/File:React-icon.svg">
