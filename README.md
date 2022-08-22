@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://c.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif">
+    <img src="./img/68747470733a2f2f632e74656e6f722e636f6d2f7a48693179792d5179545541414141642f616e696d652d747261696e2e676966.gif">
 </p>
 
 # HELLO THERE :wave:
