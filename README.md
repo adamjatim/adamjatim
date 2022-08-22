@@ -25,7 +25,7 @@
 ## Still learning :
 <p>
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-    <img height="30px" align="left" src="https://commons.wikimedia.org/wiki/File:React-icon.svg">
+    <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </p>
 
 <!-- <img height="30px" align="left" src=""> -->
