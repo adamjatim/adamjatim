@@ -4,7 +4,7 @@
 
 # HELLO THERE :wave:
 <p>
-    I'm FullStack Developer from Indonesia.
+    I'm Junior FullStack Developer from Indonesia.
 </p>
 
 ## Tools that I use :
