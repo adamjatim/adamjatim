@@ -17,5 +17,5 @@
     <img height="40px" align="left" src="./img/css.svg">
     <img height="40px" align="left" src="./img/javaScript.svg">
     <img height="40px" align="left" src="./img/git.svg" >
-    <img height="40px" align="left" src="">
+    <!-- <img height="40px" align="left" src=""> -->
 </p>
