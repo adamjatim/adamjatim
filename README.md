@@ -9,9 +9,8 @@
 
 ### Tools that I use :
 <p>    
-    <img height="30px" align="left" src="/img/terminal.svg">
     <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">
-    <img height="30px" align="left" src="/img/vsCode.svg">
+    <img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
     <img height="30px" align="left" src="/img/c++.svg">
     <img height="30px" align="left" src="/img/html.svg">
     <img height="30px" align="left" src="/img/css.svg">
