@@ -9,14 +9,13 @@
 
 ### Tools that I use :
 <p>    
-    <img src="./img/terminal.svg" alt="Terminal" style="height:40px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" style="height:40px;">
-    <img src="https://code.visualstudio.com/favicon.ico" alt="VSCode" style="height:40px;">
-    <img src="https://docs.microsoft.com/en-us/media/logos/logo_Cplusplus.svg" alt="C++" style="height:40px;">
-    <img src="./img/html.svg" alt="HTML" style="height:40px;">
-    <img src="./img/css.svg" alt="CSS" style="height:40px;">
-    <img src="./img/javaScript.svg" alt="Javascript" style="height:40px;">
-    <img src="./img/git.svg" alt="git" style="height:40px;">
-    <img src="" alt="" style="height:40px;">
-    <img src="" alt="" style="height:40px;">
+    <img height:"40px" align="left" src="./img/terminal.svg">
+    <img height:"40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">
+    <img height:"40px" align="left" src="https://code.visualstudio.com/favicon.ico">
+    <img height:"40px" align="left" src="https://docs.microsoft.com/en-us/media/logos/logo_Cplusplus.svg"">
+    <img height:"40px" align="left" src="./img/html.svg">
+    <img height:"40px" align="left" src="./img/css.svg">
+    <img height:"40px" align="left" src="./img/javaScript.svg">
+    <img height:"40px" align="left" src="./img/git.svg" >
+    <img height:"40px" align="left" src="">
 </p>
