@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://nextshark.com/wp-content/uploads/2018/01/005.gif">
+    <!-- https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif -->
 </p>
 
 # HELLO THERE :wave:
@@ -8,7 +9,7 @@
 </p>
 
 ## Tools that I use :
-<p>
+<p align="center">
     <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg">
     <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
     <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">
@@ -23,7 +24,7 @@
 <br>
 
 ## Still learning :
-<p>
+<p align="center">
     <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
     <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </p>
