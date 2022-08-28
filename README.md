@@ -26,7 +26,7 @@
 ## Still learning :
 <p align="center">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-    <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Font_Awesome_5_brands_node-js.svg" background-color= "#24d41e">
+    <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Font_Awesome_5_brands_node-js.svg" style="--color_fill: #24d41e;">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </p>
 
