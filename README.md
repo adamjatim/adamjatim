@@ -26,8 +26,8 @@
 ## Still learning :
 <p align="center">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-    <img height="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg">
+    <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </p>
 
-<!-- <img height="30px" align="center" src=""> -->
+<!-- <img height="40px" align="center" src=""> -->
