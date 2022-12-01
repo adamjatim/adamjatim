@@ -8,7 +8,7 @@
     I'm Junior FullStack Developer from Indonesia.
 </p>
 
-## Tools that I use :
+<!-- ## Tools that I use :
 <p align="center">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
@@ -29,5 +29,5 @@
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg">
     <img height="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </p>
-
+ -->
 <!-- <img height="40px" align="center" src=""> -->
