@@ -2,7 +2,7 @@
     <!-- <img src="https://nextshark.com/wp-content/uploads/2018/01/005.gif"> -->
 <!--     <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"> -->
 <!--     <img src="https://data.nextshark.com/wp-content/uploads/2018/01/008.gif"> -->
-    <img width="700px" src="https://data.nextshark.com/wp-content/uploads/2018/01/005.gif">
+    <img width="600px" src="https://data.nextshark.com/wp-content/uploads/2018/01/005.gif">
 </p>
 
 # HELLO THERE :wave:
