@@ -20,6 +20,9 @@
   <img src="./src/figma.svg" alt="">
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=adamjatim&color=blue&style=for-the-badge)
+
 <!-- 
 ## Stack :
 <p align="center">
