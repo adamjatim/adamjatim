@@ -1,4 +1,3 @@
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/xMdb/xMdb/assets/46137770/1e849156-82ec-43b5-ae48-c33b8c53b7c5');]{x0000}$}
 <p align="center">
     <!-- <img src="https://nextshark.com/wp-content/uploads/2018/01/005.gif"> -->
 <!--     <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"> -->
