@@ -7,7 +7,7 @@
 
 # HELLO THERE :wave:
 <p>
-    I'm Adam. Junior FullStack Web Developer.
+    I'm Adam. FullStack Web Developer.
 </p>
 
 ## Tools that I use :
